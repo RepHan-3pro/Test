@@ -26,7 +26,7 @@ public class JustTest {
   System.out.println();
   System.out.println();
   System.out.println();
-  System.out.println();
+  System.out.println(mmp); System.out.println(mmp); System.out.println(mmp); 
  System.out.println();
         System.out.println();
 
