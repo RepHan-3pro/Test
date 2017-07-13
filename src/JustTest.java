@@ -19,5 +19,8 @@ public class JustTest {
         System.out.println();
 
     }
+    public void Test(){
+
+    }
 
 }
