@@ -32,8 +32,8 @@ public class JustTest {
         System.out.println();
 
     }
-    public void Test(){
-
+    public void Test() throws IOException {
+        test();
     }
 
 }
