@@ -30,4 +30,7 @@ public class JustTest {
     public void Test1() throws IOException {
         test();
     }
+    public void Test2() throws IOException {
+        test();
+    }
 }
