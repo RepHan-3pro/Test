@@ -27,5 +27,7 @@ public class JustTest {
     public void Test() throws IOException {
         test();
     }
-
+    public void Test1() throws IOException {
+        test();
+    }
 }
