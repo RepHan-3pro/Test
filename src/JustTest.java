@@ -27,7 +27,7 @@ public class JustTest {
   System.out.println();
   StringBuffer testt=new StringBuffer();
   System.out.println();
-  System.out.println();
+  System.out.println(mmp); System.out.println(mmp); System.out.println(mmp); 
  System.out.println();
         System.out.println();
 
