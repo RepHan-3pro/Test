@@ -15,7 +15,19 @@ public class JustTest {
     public void test() throws IOException {
         String test=new String("hello world");
         System.out.println(test);
-        System.out.println();
+         System.out.println();
+   System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+  System.out.println();
+ System.out.println();
         System.out.println();
 
     }
