@@ -16,6 +16,8 @@ public class JustTest {
         String test=new String("hello world");
         System.out.println(test);
         System.out.println();
+        System.out.println();
+
     }
 
 }
